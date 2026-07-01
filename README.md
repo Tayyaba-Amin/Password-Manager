@@ -5,7 +5,7 @@ A responsive Password Manager built with **HTML, CSS, and JavaScript**. This pro
 ## Live Demo
 
 **View the project here:**
-https://your-project-name.vercel.app
+https://password-manager-theta-two.vercel.app/
 
 ---
 

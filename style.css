@@ -210,4 +210,7 @@ button {
   td {
     padding: 12px;
   }
+  td:last-child {
+  white-space: nowrap;
+}
 }
