@@ -73,6 +73,10 @@ No additional packages or installation steps are required.
 ---
 
 ## Preview
+
+<p align="center">
+  <img src="screenshots/Preview2.jpeg" alt="Password Manager Preview">
+</p>
 <p align="center">
   <img src="screenshots/Preview1.jpeg" alt="Password Manager Preview">
 </p>
